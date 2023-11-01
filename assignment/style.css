@@ -1,5 +1,10 @@
 /* Add a background color to the header element */
 
+h1 {
+    color: red;
+    text-align: center;
+  }
+  
 /* Add a fun background color to the main element */
 
 /* Align the h1 containing your name in the center of the header*/
